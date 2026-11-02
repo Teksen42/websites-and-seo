@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B3D2E,100:14B8A6&text=Websites%20%26%20SEO&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=54&desc=Domains%2C%20hosting%2C%20structured%20data%20and%20Google%20Search%20Console&descAlign=50&descAlignY=60&descSize=18" alt="Websites and SEO banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B3D2E,100:14B8A6&text=Websites%20and%20SEO&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=54&desc=Domains%2C%20hosting%2C%20structured%20data%20and%20Google%20Search%20Console&descAlign=50&descAlignY=60&descSize=18" alt="Websites and SEO banner" width="100%" />
 
   <a href="https://xn--mlvkebab-9za5q.dk">
     <img src="https://img.shields.io/badge/Website-m%C3%A5l%C3%B8vkebab.dk-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="måløvkebab.dk" />
